@@ -23,3 +23,11 @@ fields:
 - type: text
   name: type
   label: type
+- name: blok
+  type: blocks
+  label: blok
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: кбло
