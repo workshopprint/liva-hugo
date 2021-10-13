@@ -1,77 +1,68 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
-draft: false
-
-# post thumb
-image: "images/featured-post/post-2.jpg"
-
-# meta description
-description: "this is meta description"
-
-# taxonomies
-categories: 
-  - "HTML & CSS"
+title: Особенности сублимационной печати на ткани
+date: 2019-10-29T10:07:47.000+06:00
+image: images/featured-post/post-2.jpg
+description: this is meta description
+categories:
+- HTML & CSS
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+- Photos
+- Game
+- React
+- Python
+- New
+type: featured
 
-# post type
-type: "featured"
 ---
+# **Особенности сублимационной печати на ткани**
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+## **Особенности сублимационной печати на ткани**
 
-<hr>
+### **Особенности сублимационной печати на ткани**
 
-##### Emphasis
+#### **Особенности сублимационной печати на ткани**
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+##### **Особенности сублимационной печати на ткани**
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+###### **Особенности сублимационной печати на ткани**
 
-Combined emphasis with **asterisks and _underscores_**.
+<ч>
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+##### **Особенности сублимационной печати на ткани**
 
-<hr>
+**Особенности сублимационной печати на ткани** with **asterisks** or **underscores**.
 
-##### Link
-[I'm an inline-style link](https://www.google.com)
+**Особенности сублимационной печати на ткани**.
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+В зачеркивание используются две тильды. ~~Поцарапайте это.~~
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+<ч>
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+##### Связь
 
-[You can use numbers for reference-style link definitions][1]
+[Я — встроенная ссылка](https://www.google.com)
 
-Or leave it empty and use the [link text itself].
+[Я встроенная ссылка с заголовком](https://www.google.com "Google's Homepage")
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+[Я ссылка в стиле ссылки](https://www.mozilla.org)
+
+[Я относительная ссылка на файл репозитория](../blob/master/LICENSE)
+
+[Числа можно использовать для определений ссылок в ссылочный стиле](http://slashdot.org)
+
+Или оставьте его пустым и используйте [сам текст ссылки.](http://www.reddit.com)
+
+URLs and URLs in angle brackets will automatically get turned into links. http://www.example.com or [http://www.example.com](http://www.example.com) and sometimes example.com (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+<ч>
 
-<hr>
+##### Параграф
 
-##### Paragraph
+**Это процесс перехода вещества из твердого агрегатного состояния в газообразное, минуя жидкое состояние. Этот процесс происходит при нагревании материалов свыше 1000С.**
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
+**Технология не прямой сублимационной печати представляет собой способ нанесения изображения в два этапа. Производится печать изображения на промежуточном носителе (сублимационной бумаге) c последующем термопереносом на декорируемое изделие. При котором частицы красящего вещества, нанесённого на бумагу, мгновенно нагреваются (в данном случае при помощи термоэлемента пресса) и смешиваются, при переходе в газовое состояние, глубоко проникая в структуру запечатываемого материала. Эта технология позволяет наносить изображения, фотографического качества, на любую поверхность, покрытую сублимационным лаком или на ткани из синтетических материалов, в составе которых содержится полиэстер.**
 
 <hr>
 
@@ -82,7 +73,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 3. List item
 4. List item
 5. List item
-
 
 ##### Unordered List
 
@@ -96,22 +86,20 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 
 ##### Code and Syntax Highlighting
 
-Inline `code` has `back-ticks around` it.
+Inline  has  it.`codeback-ticks around`
 
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
- 
+
 ```python
 s = "Python syntax highlighting"
 print s
 ```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
+
+    No language indicated, so no syntax highlighting. 
+    But let's throw in a <b>tag</b>.
 
 <hr>
 
@@ -123,43 +111,29 @@ But let's throw in a <b>tag</b>.
 
 ##### Inline HTML
 
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
+**Сублимационная печать на ткани яркая, стойкая к перепадам температуры и стирке, но имеет свои ограничения:**
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+* **во-первых, полностью натуральные материалы плохо впитывают сублимационную краску, поэтому используются синтетика (полиэстер не меньше 60%).**
+* **во-вторых, для сублимации используют белые или светлые ткани, потому что светлые сублимационные чернила не закрашивают темную основу.**
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+**Это обязательно нужно учитывать при разработке дизайна для сублимационной печати.**
 
+**Печать сублимацией возможна как на рулонных материалах, так и на деталях кроя. Последний вариант интересен заказчикам, у которых размер запечатки значительно меньше, чем сам крой, так как стоимость сублимации зависит от запечатываемой площади и тиража.**
 
-<hr>
+**С помощью этой технологии обычно печатаются изображения фотокачества.**
 
-##### Tables
+**Очень оригинально выглядят изделия, в которых сублимационная печать сочетается с трафаретной. В мастерской WORKSHOP PRINT можно напечатать комбинированные изображения: сублимация + , сублимация + или металлизированными красками.**
 
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+| Markdown | Less | Pretty |
+| --- | --- | --- |
+| Still | renders | nicely |
+| 1 | 2 | 3 |
 
 <hr>
 
 ##### Image
 
-![image](../../images/post/post-1.jpg)
+![](/uploads/58088971a512a.jpg)
 
 <hr>
 
