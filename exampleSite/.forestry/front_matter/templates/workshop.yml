@@ -23,10 +23,68 @@ fields:
 - type: text
   name: type
   label: type
+- name: hgb_kjhgk_
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: hgb.kjhgk.
+- name: m_nm_
+  type: image_gallery
+  config: {}
+  label: m,nm.
+- name: _mn_mn_
+  type: color
+  label: ",mn,mn,"
+  config:
+    required: false
+    color_format: Hex
+  default: "#EF9999"
+- name: nnl_n/_
+  type: field_group
+  config: {}
+  fields:
+  - name: m/lm///_m/_m_
+    type: include
+    config: {}
+    template: workshop
+    label: m/lm///.m/.m,
+  - name: m_m
+    type: blocks
+    label: m.m
+    template_types:
+    - workshop
+    config:
+      min: 
+      max: 
+  - name: nknn_
+    type: select
+    default: ''
+    config:
+      required: false
+      options: []
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: nknn.
+  label: nnl.n/.
+- name: nb_m
+  type: field_group_list
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: nb,m
 - name: blok
   type: blocks
   label: blok
-  template_types: []
+  template_types:
+  - workshop
   config:
     min: 
     max: 
