@@ -1,77 +1,64 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
-draft: false
-
-# post thumb
-image: "images/featured-post/post-1.jpg"
-
-# meta description
-description: "this is meta description"
-
-# taxonomies
+title: Наклейки на пленке или самоклеющейся бумаге тиражами от 1шт!
+date: 2019-10-29T10:07:47.000+06:00
+image: images/featured-post/post-1.jpg
+description: this is meta description
 categories:
-  - "Android And Gaming"
+- Android And Gaming
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+- Photos
+- Game
+- React
+- Python
+- New
+type: featured
 
-# post type
-type: "featured"
 ---
+# Наклейки на пленке или самоклеющейся бумаге тиражами от 1шт!
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+## Наклейки на пленке или самоклеющейся бумаге тиражами от 1шт!
 
-<hr>
+### Наклейки на пленке или самоклеющейся бумаге тиражами от 1шт!
 
-##### Emphasis
+#### Наклейки на пленке или самоклеющейся бумаге тиражами от 1шт!
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+##### Наклейки на пленке или самоклеющейся бумаге тиражами от 1шт!
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+###### Наклейки на пленке или самоклеющейся бумаге тиражами от 1шт!
 
-Combined emphasis with **asterisks and _underscores_**.
+<ч>
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+##### Ударение
 
-<hr>
+**мастерская WORKSHOP PRINT печатает наклейки на заказ на профессиональном оборудовании. Заказывайте наклейки стандартной формы, круглые наклейки или наклейки произвольной формы! - мы печатаем наклейки на пленке или самоклеющейся бумаге тиражами от 1шт! Заказывайте изготовление наклеек срочно и недорого прямо сейчас на сайте. Онлайн заказ печати наклеек и стикеров**
 
-##### Link
-[I'm an inline-style link](https://www.google.com)
+В зачеркивание используются две тильды. ~~Поцарапайте это.~~
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+<ч>
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+##### Связь
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[Я — встроенная ссылка](https://www.google.com)
 
-[You can use numbers for reference-style link definitions][1]
+[Я встроенная ссылка с заголовком](https://www.google.com "Google's Homepage")
 
-Or leave it empty and use the [link text itself].
+[Я ссылка в стиле ссылки](https://www.mozilla.org)
 
-URLs and URLs in angle brackets will automatically get turned into links.
-http://www.example.com or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
+[Я относительная ссылка на файл репозитория](../blob/master/LICENSE)
+
+[Числа можно использовать для определений ссылок в ссылочный стиле](http://slashdot.org)
+
+Или оставьте его пустым и используйте [сам текст ссылки.](http://www.reddit.com)
+
+URLs and URLs in angle brackets will automatically get turned into links. http://www.example.com or [http://www.example.com](http://www.example.com) and sometimes example.com (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+<ч>
 
-<hr>
+##### Параграф
 
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
+**мастерская WORKSHOP PRINT печатает наклейки на заказ на профессиональном оборудовании. Заказывайте наклейки стандартной формы, круглые наклейки или наклейки произвольной формы! - мы печатаем наклейки на пленке или самоклеющейся бумаге тиражами от 1шт! Заказывайте изготовление наклеек срочно и недорого прямо сейчас на сайте. Онлайн заказ печати наклеек и стикеров**
 
 <hr>
 
@@ -95,7 +82,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 
 ##### Code and Syntax Highlighting
 
-Inline `code` has `back-ticks around` it.
+Inline  has  it.`codeback-ticks around`
 
 ```javascript
 var s = "JavaScript syntax highlighting";
@@ -107,10 +94,8 @@ s = "Python syntax highlighting"
 print s
 ```
 
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
+    No language indicated, so no syntax highlighting.
+    But let's throw in a <b>tag</b>.
 
 <hr>
 
@@ -124,14 +109,9 @@ But let's throw in a <b>tag</b>.
 
 You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+<dl> <dt>Definition list</dt> <dd>Is something people use sometimes.</dd>
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
+<dt>Markdown in HTML</dt> <dd>Does _not_ work **very** well. Use HTML <em>tags</em>.</dd> </dl>
 
 <hr>
 
@@ -139,26 +119,24 @@ You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
 
 Colons can be used to align columns.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tables | Are | Cool |
+| --- | :---: | ---: |
+| col 3 is | right-aligned | $1600 |
+| col 2 is | centered | $12 |
+| zebra stripes | are neat | $1 |
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
+There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+| Markdown | Less | Pretty |
+| --- | --- | --- |
+| Still | renders | nicely |
+| 1 | 2 | 3 |
 
 <hr>
 
 ##### Image
 
-![image](../../images/post/post-1.jpg)
+![](/uploads/3b3d60953a46f1241a5341dc995232b9.jpg)
 
 <hr>
 
